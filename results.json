@@ -1,0 +1,37 @@
+[
+  {
+    "D": 50,
+    "accuracy": 0.732083,
+    "time_s": 0.024,
+    "rss_mb": 142.77,
+    "rss_delta_mb": 0.2
+  },
+  {
+    "D": 100,
+    "accuracy": 0.745833,
+    "time_s": 0.027,
+    "rss_mb": 142.79,
+    "rss_delta_mb": 0.01
+  },
+  {
+    "D": 300,
+    "accuracy": 0.794583,
+    "time_s": 0.088,
+    "rss_mb": 145.84,
+    "rss_delta_mb": 1.8
+  },
+  {
+    "D": 500,
+    "accuracy": 0.768333,
+    "time_s": 0.281,
+    "rss_mb": 147.05,
+    "rss_delta_mb": 0.04
+  },
+  {
+    "D": 1000,
+    "accuracy": 0.7925,
+    "time_s": 0.888,
+    "rss_mb": 147.39,
+    "rss_delta_mb": 1.85
+  }
+]
